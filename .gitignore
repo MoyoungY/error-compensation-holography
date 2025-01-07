@@ -1,0 +1,58 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs and results
+tb_logs/
+logs/
+results/
+wandb/
+*.log
+
+# Checkpoints and models
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+saved_models/
+
+# Data
+data/
+datasets/
+.history/
+DIV2K*/
+*.png
+*.jpg
+*.jpeg
+*.npy
+*.npz
+*.h5
+*.mat
+*.zip
+*.tar
+*.gz
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
