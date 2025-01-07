@@ -34,7 +34,6 @@ saved_models/
 
 # Data
 data/
-datasets/
 .history/
 DIV2K*/
 *.png
