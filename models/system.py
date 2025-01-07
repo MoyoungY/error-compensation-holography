@@ -66,7 +66,7 @@ class HoloSystem(pl.LightningModule):
     def setup_model(self):
         """Initialize neural network model"""
         self.phase_generator = holonet()
-        #self.phase_generator = ccnn()
+        #self.phase_generator = ccnncgh()
 
     def setup_losses(self):
         """Setup loss functions"""
