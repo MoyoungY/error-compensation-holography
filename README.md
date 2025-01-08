@@ -101,7 +101,5 @@ This project is released under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- [PyTorch Lightning](https://www.pytorchlightning.ai/) for the training framework
-- [DIV2K dataset](https://data.vision.ee.ethz.ch/cvl/DIV2K/) for training data
 - [Neural Holography](https://github.com/computational-imaging/neural-holography) for the ASM implementation
 - [CCNN-CGH](https://github.com/flyingwolfz/CCNN-CGH) for CCNN network implementation
