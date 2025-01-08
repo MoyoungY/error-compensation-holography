@@ -6,14 +6,6 @@ This repository contains the official implementation of the paper ["Error-compen
 
 We propose an error-compensation network for reducing ringing artifacts in computer-generated holograms (CGHs). Our method introduces a specialized network architecture that effectively compensates for errors in the holographic reconstruction process, leading to improved image quality and reduced artifacts.
 
-## Key Features
-
-- Novel error-compensation network architecture
-- Angular Spectrum Method (ASM) for accurate wave propagation
-- Support for RGB hologram generation
-- PyTorch Lightning implementation for efficient training
-- Comprehensive evaluation on DIV2K dataset
-
 ## Requirements
 
 - Python 3.8+
